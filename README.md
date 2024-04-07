@@ -1,1 +1,1 @@
-# Netflix_Clone
+Hello Coders, Just created my 2nd project of web Development called "Netflix clone". It is the clone of the most popular website Netflix. It shows the landing  page of the Netflix. I have created this web Page with the help of HTML5 and CSS3. I hope you liked my work.
